@@ -4,7 +4,7 @@
 
 ### 👨🏻‍💻 &nbsp;About Me
 
-I'm **Ítalo Mutão**, **Full-Stack programmer** who loves to simplify things, and solve problems using **absolutely** any technology, but PHP (**just kidding**, maybe not).
+I'm **Ítalo Mutão**, **Full-Stack programmer** who loves to simplify things, and solve problems using **absolutely** any technology.
 
 ### 🤝🏻 &nbsp;Connect with me
 
